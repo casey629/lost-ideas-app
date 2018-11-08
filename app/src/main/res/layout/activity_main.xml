@@ -41,6 +41,5 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:text="Kaydet"
-
     />
 </android.support.constraint.ConstraintLayout>
